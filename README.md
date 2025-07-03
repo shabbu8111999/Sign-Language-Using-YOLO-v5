@@ -27,3 +27,12 @@ conda activate sign
 ```bash
 pip install -r requirements.txt
 ```
+
+## Workflows
+#### Updating Sign Languagge Detection in orders
+
+1. constant
+2. entity
+3. components
+4. pipeline
+5. app.py
